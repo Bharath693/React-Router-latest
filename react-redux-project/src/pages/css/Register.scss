@@ -1,0 +1,28 @@
+.Register {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .Register--Main {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 50px;
+        margin-top: 50px;
+        border: 1px solid black;
+        // background-color: green;
+        border-radius: 5px;
+        box-shadow: 10px 10px 15px #FFF;
+
+        .Register--Main--Heading {
+            font-family: 'Times New Roman', Times, serif;
+        }
+
+        .Login--Maincomponent--InputDiv--userNameTxtField {
+            margin-bottom: 20px;
+        }
+    }
+}

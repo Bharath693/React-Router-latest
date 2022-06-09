@@ -1,0 +1,38 @@
+.Login--Maincomponent{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .Login--Maincomponent--LoginText {
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .Login--Maincomponent--InputDiv{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 50px;
+        margin-top: 50px;
+        border: 1px solid black;
+        // background-color: green;
+        border-radius: 5px;
+        box-shadow: 10px 10px 15px #FFF;
+
+        .Login--Maincomponent--InputDiv--userNameTxtField {
+            margin-bottom: 10px;
+            
+        }
+    }
+    .Login--Maincomponent--SubmitBtn {
+        margin-top: 20px;
+        padding: 10px 20px;
+        background-color: blue;
+        color: white;
+        border: 1px solid white;
+        border-radius: 10px;
+        text-transform: uppercase;
+        font-weight: 500;
+    }
+}

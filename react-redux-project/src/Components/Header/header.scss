@@ -1,0 +1,31 @@
+.header--MainContainer {
+  padding-top: 15px;
+  padding-bottom: 1px;
+  background-color: #f67280;
+}
+
+.header-nav-ul {
+  text-decoration: none;
+  display: flex;
+  justify-content: space-between;
+  li{
+    display: flex;
+    align-items: flex-start;
+    // text-decoration: none;
+    list-style: none;
+    color: white;
+  }
+  .header-nav-ul-rightContent {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-right: 75px;
+    list-style: none;
+    color: white;
+
+    .header-nav-ul-rightContent--Login{
+        margin-right: 20px;
+    }
+  }
+}
+

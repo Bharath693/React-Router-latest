@@ -1,0 +1,77 @@
+export const Datafile = [
+{
+  firstName:"Nataniel",
+  lastName:"Aldrich",
+  email:"naldrich0@wp.com"
+},
+{
+    firstName:"Brod",
+    lastName:"Gerdts",
+    email:"bgerdts1@sogou.com"
+  },
+  {
+    firstName:"Clevie",
+    lastName:"Krinks",
+    email:"ckrinks2@myspace.com"
+  },
+  {
+    firstName:"Manya",
+    lastName:"Bletso",
+    email:"mbletso3@yahoo.com"
+  },
+  {
+    firstName:"Roarke",
+    lastName:"Kloss",
+    email:"rkloss4@wired.com"
+  },
+  {
+    firstName:"Tiff",
+    lastName:"Doberer",
+    email:"tdoberer5@mysql.com@wp.com"
+  },
+  {
+    firstName:"Laurie",
+    lastName:"Crumbie",
+    email:"lcrumbie6@cdbaby.com@wp.com"
+  },
+  {
+    firstName:"Camella",
+    lastName:"Burwood",
+    email:"lcrumbie6@cdbaby.com@wp.com"
+  },
+  {
+    firstName:"Rosco",
+    lastName:"AldrAggettich",
+    email:"naldrich0@wp.com"
+  },
+  {
+    firstName:"Woodie",
+    lastName:"Trippack",
+    email:"naldrich0@wp.com"
+  },
+  {
+    firstName:"Israel",
+    lastName:"Divers",
+    email:"lcrumbie6@cdbaby.com@wp.com"
+  },
+  {
+    firstName:"Lothaire",
+    lastName:"Choak",
+    email:"naldrich0@wp.com"
+  },
+  {
+    firstName:"Kirsten",
+    lastName:"Burns",
+    email:"lcrumbie6@cdbaby.com@wp.com"
+  },
+  {
+    firstName:"Dee de",
+    lastName:"Drysdale",
+    email:"naldrich0@wp.com"
+  },
+  {
+    firstName:"Evaleen",
+    lastName:"Andric",
+    email:"lcrumbie6@cdbaby.com@wp.com"
+  }
+]
